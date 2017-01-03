@@ -6,8 +6,13 @@ body, html {
     height: 100%
 }
 
+hr {
+    margin: auto;
+    width: 40%;
+}
+
 .bgimg {
-    background-image: url('../portada1.jpg');
+    background-image: url("../portada1.jpg");
     min-height: 100%;
     background-position: center;
     background-size: cover;
